@@ -1,0 +1,9 @@
+{
+	"name": "1FirstDemo",
+	"location": "francecentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d5f5d4ac-23d1-4e27-a5a6-14331b98011b",
+		"tenantId": "f65e3d17-0ac2-43ed-90d9-af4c1e8c0185"
+	}
+}
